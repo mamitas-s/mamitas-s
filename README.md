@@ -23,3 +23,9 @@ In this role, I primarily oversaw P/L management, proposed and implemented funct
 
 In 2024, I relocated to London🇬🇧, where I am currently engaged in project management for SaaS products through freelance work. 
 Alongside my project management responsibilities, I am pursuing a data science course due to my interest in data analysis, image processing, and machine learning.
+
+### Favorites
+I love cats!
+
+![profile](https://github.com/mamitas-s/mamitas-s/assets/34713615/60bad55f-50ae-4631-85bc-3b06f531f9de)
+Image is generated using Microsoft Designer
