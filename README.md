@@ -26,6 +26,6 @@ Alongside my project management responsibilities, I am pursuing a data science c
 
 ### Favorites
 I love cats!
-<img src="{https://github.com/mamitas-s/mamitas-s/assets/34713615/60bad55f-50ae-4631-85bc-3b06f531f9de}" width="50%" />
+<img src="{https://github.com/mamitas-s/mamitas-s/assets/34713615/60bad55f-50ae-4631-85bc-3b06f531f9de}" width="70%" />
 
 Image is generated using Microsoft Designer
